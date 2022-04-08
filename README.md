@@ -8,5 +8,5 @@ This is one of many projects I did under GRIP which is of Advance Level. This ga
   * Or, going for sleeve, helmet and number sponsorship for CSK, MI and RCB for larger audiance capture.
 
 * Certain players are found out whose contribution is resulting in win of the match
- *  Bat sponsorship can be bought for such batsman.
- *  Instagram posts can be sponsored for such bolwers.
+  *  Bat sponsorship can be bought for such batsman.
+  *  Instagram posts can be sponsored for such bolwers.
